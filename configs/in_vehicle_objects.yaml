@@ -1,0 +1,8 @@
+# in_vehicle_objects.yaml
+path: ./datasets/in_vehicle_objects_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 7
+names: ['belt', 'cup', 'front', 'left', 'phone', 'right', 'wheel']
