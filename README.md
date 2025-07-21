@@ -98,7 +98,7 @@ names: ['belt', 'cup', 'front', 'left', 'phone', 'right', 'wheel']
    pip install ultralytics mediapipe opencv-python tqdm numpy
    ```
 
-3. **Use trained weights** (or train your own model).  
+3. **Use trained weights** (or train your own model). [best weight](https://drive.google.com/file/d/1TlNbHDsRRoy-9wEmSIcpeTknGGpHVfTA/view?usp=sharing)
 
 ---
 
